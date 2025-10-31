@@ -44,16 +44,16 @@ City: Pune
 > 💡 Click on any name to view their details.
 
 
-## ⚙️ How to Run
-# 1. Create a React app
+# ⚙️ How to Run
+## 1. Create a React app
 npx create-react-app person-info
 
-# 2. Go into project folder
+## 2. Go into project folder
 cd person-info
 
-# 3. Replace src/App.js with this code
+## 3. Replace src/App.js with this code
 
-# 4. Start the app
+## 4. Start the app
 npm start
 
 ## 🧠 Concepts Used
