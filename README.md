@@ -1,6 +1,5 @@
 # ReactJS
 <img width="1872" height="887" alt="react2" src="https://github.com/user-attachments/assets/491ea431-fd1e-487d-aa86-6109b91ff487" />
-Here’s a clear and professional **`README.md`** description you can use for your GitHub repo 👇
 
 # 🧍‍♀️ React Person Info Display
 
